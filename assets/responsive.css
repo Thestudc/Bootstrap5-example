@@ -1,0 +1,128 @@
+@media (max-width: 575.98px) {
+    .slick-slide img {
+      display: block;
+      height: 64px;
+      width: 210px;
+    }
+    .clients-slider {
+      max-width: 70%;
+    }
+    .input-group-size {
+      width: 100%;
+      margin: auto;
+    }
+    .custom-p-side {
+      width: 100%;
+      margin: auto;
+    }
+    .font-size-footer {
+      font-size: 20px;
+    }
+  }
+  
+  @media (max-width: 767.98px) {
+    .slick-slide img {
+      display: block;
+      height: 64px;
+      width: 230px;
+    }
+    .clients-slider {
+      max-width: 72%;
+    }
+  }
+  
+  @media (max-width: 991.98px) {
+    .banner-images-mobile {
+      -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+      justify-content: space-evenly;
+    }
+    .text-align-mobile {
+      text-align: center;
+    }
+    .slick-slide img {
+      display: block;
+      height: 40px;
+      width: 110px;
+    }
+    .clients-slider {
+      max-width: 90%;
+    }
+  }
+  
+  @media (max-width: 1199.98px) {
+    .slick-slide img {
+      display: block;
+      min-height: 33px;
+      min-width: 100px;
+    }
+    .clients-slider {
+      max-width: 75%;
+      margin: auto;
+    }
+  }
+  
+  @media (max-width: 1329.98px) {
+    .custom-p-side {
+      padding-top: 50px;
+      width: 80%;
+      margin: auto;
+    }
+  }
+  
+  @media (max-width: 1427.98px) {}
+  
+  @media (min-width: 576px) {
+    .font-size-footer {
+      font-size: 25px;
+    }
+  }
+  
+  @media (min-width: 768px) {
+    .font-size-mobile {
+      font-size: 50px;
+    }
+  }
+  
+  @media (min-width: 992px) {
+    .input-group-size {
+      width: 50%;
+      margin: auto;
+    }
+    .banner-images-mobile {
+      margin-top: 60px;
+      -webkit-box-pack: start;
+      -ms-flex-pack: start;
+      justify-content: start;
+    }
+    .font-size-footer {
+      font-size: 20px;
+    }
+  }
+  
+  @media (min-width: 1200px) {
+    .margin-right-section {
+      margin-right: 100px;
+    }
+    .margin-left-section {
+      margin-left: 100px;
+    }
+    .margin-right-section-products {
+      margin-right: 100px;
+    }
+    .font-size-mobile {
+      font-size: 60px;
+    }
+    .clients-slider {
+      max-width: 90%;
+      margin: auto;
+    }
+    .slick-slide img {
+      display: block;
+      min-height: 33px;
+      min-width: 100px;
+    }
+    .font-size-footer {
+      font-size: 25px;
+    }
+  }
